@@ -1,0 +1,5 @@
+/home/madman/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/madman/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/ninja/linux/x64/ninja -G Ninja -S "/home/madman/Dev/Deus Engine" -B "/home/madman/Dev/Deus Engine/cmake-build-debug"
+-- Found SFML .. in /usr/include
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/madman/Dev/Deus Engine/cmake-build-debug
